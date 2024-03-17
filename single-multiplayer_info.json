@@ -1,0 +1,15 @@
+{
+	"Single-player": "single",
+	"Multi-player": "gen-mutli",
+	"PvP": "pvp-multi",
+	"Online PvP": "pvp-multi",
+	"Shared/Split Screen PvP": "pvp-multi",
+	"Cross-Platform Multiplayer": "gen-multi",
+	"Remote Play Together": "coop-multi",
+	"Co-op": "coop-multi",
+	"Online Co-op": "coop-multi",
+	"Shared/Split Screen Co-op": "coop-multi",
+	"LAN PvP": "pvp-multi",
+	"MMO": "gen-multi",
+	"LAN Co-op": "coop-multi"
+}
